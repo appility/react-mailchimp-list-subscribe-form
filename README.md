@@ -1,0 +1,1 @@
+# react-mailchimp-list-subscribe-form
